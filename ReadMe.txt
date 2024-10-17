@@ -1,3 +1,6 @@
+Make sure your PC has JDK installed before setting up NetBeans:
+https://www.oracle.com/java/technologies/downloads/#jdk23-windows
+
 Apache NetBeans: Download it from this link:
 https://dlcdn.apache.org/netbeans/netbeans-installers/23/Apache-NetBeans-23-bin-windows-x64.exe
 
