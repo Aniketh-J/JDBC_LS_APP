@@ -12,10 +12,14 @@ After downloading, add it to your project by right-clicking on "Libraries" under
 Now your tech stack is ready!
 
 For designing and implementing a simple project, refer to this video tutorial:
-https://www.youtube.com/watch?v=ZdVOkrbkmTk
-Skip from 10:55 to 12:52 to learn how to add the driver, but use the above link and method to import the driver.
 
-Here's the project file:
-https://github.com/89p13Raccoon/JDBC_LS_APP
-(Ignore the private void initcomponents method since it's auto-generated.)
+Part-1 :https://youtu.be/jHSBrX8lLWk?si=-OhAf7BNbNEZK3ZC
+Part-2 : https://youtu.be/y8KnCBRzTnw?si=viRBsnimWal0lcNv
+
+For a more simpler one, refer this:
+ 
+https://youtu.be/6K9OpqDM_RM?si=b42OEAVB-sd5-yHp
+
+(Ignore the design code in this project, as it’s auto-generated.)
+
 
